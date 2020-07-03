@@ -42,11 +42,7 @@ disqus:
 url: eyshin05.github.io
 
 # Google Analytics
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-171586715-1"
-    anonymize_ip: false # default
+google_analytics: "UA-171586715-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
