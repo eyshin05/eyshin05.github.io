@@ -5,7 +5,7 @@ baseurl: "" # 서브폴더가 없으면 비워둠
 url: "https://eyshin05.github.io"
 
 # 테마 설정 (GitHub 지원 테마 사용 가능)
-theme: minima
+theme: jekyll-theme-minimal
 
 nav:
   - title: "Home"
